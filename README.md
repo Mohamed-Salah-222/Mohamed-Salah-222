@@ -1,20 +1,38 @@
-### Hi there, I'm Mohamed Salah 👋
+# Hi there, I'm Mohamed Salah 👋
 
-I'm a Full-Stack Developer with a passion for building modern, functional, and user-friendly web applications from scratch. I specialize in the MERN stack (MongoDB, Express, React, Node.js) and enjoy tackling complex backend challenges and creating clean frontend experiences.
+Full-Stack Developer building modern web applications with React, Next.js, and Node.js. I specialize in AI-integrated platforms, real-time features, and performance-optimized solutions.
+
+## 🚀 What I'm Building
+
+- **AI-Powered Applications**: Kitchen management with GPT-4 Vision, study platforms with Gemini AI, and resume analyzers with Claude AI
+- **Production-Grade Platforms**: E-commerce with Stripe payments, real-time collaboration tools with Socket.io, and serverless architectures
+- **Performance-Focused**: Consistently achieving 95+ Lighthouse scores through optimization and modern best practices
+
+## 🔭 Current Focus
+
+- Exploring advanced backend patterns (message queues, caching strategies, database optimization)
+- Building type-safe applications with TypeScript
+- Contributing to open-source projects in the React/Next.js ecosystem
+
+## 💼 Looking For
+
+Open-source collaborations, freelance opportunities, or full-time roles where I can contribute to meaningful products and learn from experienced teams.
+
+## 🛠️ Tech Stack
+
+**Frontend:** React, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Responsive Design  
+**Backend:** Node.js, Express.js, REST APIs, Socket.io, JWT, OAuth  
+**Databases:** MongoDB, Mongoose, Prisma, MySQL, PostgreSQL  
+**Testing:** Jest, React Testing Library  
+**Tools:** Git, Vercel, AWS, Cloudinary, Stripe  
+**AI Integration:** OpenAI, Gemini AI, Claude AI
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/mohamed-salah-7933a6212/)
+- 🌐 [Portfolio](https://mohamedsalah.dev)
+- 📧 mohamedsalahswe@gmail.com
 
 ---
 
--   🔭 **I’m currently working on:** Building a portfolio of full-stack projects, including a feature-rich E-commerce Platform and a Recipe Sharing Application.
--   🌱 **I’m currently learning:** Advanced backend topics like automated testing (Jest, Supertest), TypeScript, and system design principles.
--   👯 **I’m looking to collaborate on:** Open-source projects or interesting web applications where I can contribute my backend and frontend skills.
--   💬 **Ask me about:** React, Node.js, Express, MongoDB, building REST APIs, and full-stack development.
--   📫 **How to reach me:** You can connect with me on **[LinkedIn](www.linkedin.com/in/mohamed-salah-7933a6212)** or via **[Email](midosalah6969@gmail.com])**.
-
----
-
-### 🛠️ My Tech Stack
-**Frontend:** React, JavaScript (ES6+), Tailwind CSS, React Router, HTML5, CSS3  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB (with Mongoose), PostgreSQL (with Sequelize)  
-**Authentication:** JWT (JSON Web Tokens), bcrypt.js  
-**Tools:** Git, GitHub, Postman, Docker (learning), Vercel, Render
+*"I build things that work, then make them work better."*
